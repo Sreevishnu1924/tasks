@@ -1,0 +1,50 @@
+
+/*vertical bar css*/
+.vbar {
+  padding: 0;
+  width: 150px; 
+  background-color: #7c7ca1; 
+}
+.vbar li {
+  padding: 10px;
+}
+.vbar li a {
+  text-decoration: none;
+  color: #fff; 
+  display: block;
+}
+.vbar li:hover {
+  background-color: #d15e18;
+}
+/*horizotal bar css*/
+.hbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #5b5a5a; 
+  overflow: hidden;
+}
+
+.hbar li {
+  float: left;
+}
+.hbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  color: #000000;
+  text-decoration: none;
+  border: solid;
+  border-color:#888894;
+}
+
+.hbar li a:hover {
+  background-color: #ffffff; 
+  border-color: #000000;
+  border-radius: 20px;
+}
+
+.bot{
+  padding: 20px;
+}

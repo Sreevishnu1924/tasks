@@ -1,0 +1,38 @@
+.header
+{
+    background-color: rgb(7, 181, 36);
+    height: 40px;
+    padding-left: 5px;
+    font-size: large;
+    color: azure;
+    text-align: left;
+}
+table {
+    margin-top: 50px;
+    margin-left: 50px;
+    border-collapse: collapse;
+}
+#head1
+{
+    width: 350px;
+}
+#head2
+{
+    width: 200px;
+}
+#head3{
+    width: 150px;
+}
+td{
+    padding-left: 6px;
+}
+.even
+{
+    height: 35px;
+    background-color: rgb(210, 210, 210);
+}
+.odd
+{
+    height: 35px;
+    background-color: #ffffff;
+}

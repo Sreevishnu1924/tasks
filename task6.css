@@ -1,0 +1,73 @@
+div
+{
+  padding-left: 5%;
+  padding-top: 1%;
+}
+#table
+{
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 7px;
+}
+.ir
+{
+    padding:3px ;
+    padding-left: 10px;
+    padding-right: 90px;
+    border-radius: 7px;
+}
+.i
+{
+    padding: 40px;
+    border-style: solid;
+    border-width: 3px;
+    margin: 10px 10px 10px 10px;
+    border-color: rgb(0, 164, 74);
+    border-radius: 8px;
+}
+.matrix {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 10px;
+}
+.box {
+    width: 70px; 
+    height: 55px;
+    border:solid;
+    border-width: 3px;
+    border-color: rgb(86, 218, 86);
+}
+#b1
+{
+   border-radius:9px; 
+}
+#b2
+{
+    border-radius:9px; 
+}
+#b4
+{
+    border-radius:9px; 
+}
+#b5{
+    border-radius:9px; 
+}
+#b8{
+    border-radius:9px; 
+}
+#b3
+{
+    border-radius:19px; 
+}
+#b6
+{
+    border-radius:19px; 
+}
+#b7{
+    border-radius: 70%;
+}
+#b9
+{
+    border-radius: 9px 15px 9px 25px;
+}

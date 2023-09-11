@@ -1,0 +1,74 @@
+#outer
+{
+    margin-top: 50px;
+    height: 480px;
+    margin-left: 430px;
+    margin-right: 430px;
+    border: solid;
+    background-color: beige;
+}
+.txt
+{
+    padding-left: 100px;
+}
+.bt
+{
+    height: 50px;
+    margin-top: 5px;
+    width: 30px;
+    margin-bottom: 5px;
+    border-radius: 0 10px 10px 0;
+    border: none;
+}
+#bt1
+{
+    background-color: rgb(0, 163, 0);
+    border-radius: 0 20px 20px 0;
+}
+#bt1:hover
+{
+    border-radius: 0 10px 10px 0;
+    width: 100px;
+    height: 55px;
+    background-color:  rgb(0, 163, 0);
+    transition-duration: 0.5s;
+}
+#bt2
+{
+    background-color: rgb(80, 80, 226);
+    border-radius: 0 20px 20px 0;
+}
+#bt2:hover
+{
+    width: 100px;
+    height: 55px;
+    border-radius: 0 10px 10px 0;
+    background-color:  rgb(80, 80, 226);
+    transition-duration: 0.5s;
+}
+#bt3
+{
+    background-color: rgb(189, 76, 76);
+    border-radius: 0 20px 20px 0;
+}
+#bt3:hover
+{
+    width: 100px;
+    height: 55px;
+    border-radius: 0 10px 10px 0;
+    background-color:  rgb(189, 76, 76);
+    transition-duration: 0.5s;
+}
+#bt4
+{
+    background-color: rgb(156, 156, 156);
+    border-radius: 0 20px 20px 0;
+}
+#bt4:hover
+{
+    width: 100px;
+    height: 55px;
+    border-radius: 0 10px 10px 0;
+    background-color:  rgb(156, 156, 156);
+    transition-duration: 0.5s;
+}
